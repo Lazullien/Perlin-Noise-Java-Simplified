@@ -1,7 +1,7 @@
 # Perlin-Noise-Java-Simplified
 A short version of perlin noise in java, this is for 2D and lower(for lower just enter 0 for y)
 
-The perlin noise algorithm developed by Ken Perlin mimics real life like smooth generation, allowed natural
+The perlin noise algorithm developed by Ken Perlin mimics real life like smooth generation, allowing natural
 mountains and oceans to be completely pseudorandom, it is mostly used to generate terrain, as well as other values
 to define regions or biomes of a game, it is also widely used in computer animation for realistic and low budget
 effects
