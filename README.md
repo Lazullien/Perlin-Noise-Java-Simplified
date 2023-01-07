@@ -19,4 +19,4 @@ Whatever you do, do not change the dynamics of the code to static, I attempted i
 it resulted in the unexpected breakdown of the algorithm and becomes repetitive kinda like a sine wave,
 i spent too long trying to figure out what was wrong, do not do the same
 
-If you want more extreme terrain alongside the perlin noise generation check my repositaries, there should be one
+If you want more extreme terrain alongside the perlin noise generation check my repositories, there should be one
