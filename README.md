@@ -15,7 +15,7 @@ and remove import world.SavedValues
 if you're wondering why you need a permulation table instead of actually random numbers it's to achieve the pseudorandom
 effect, the array is shuffled based on seed allowing easy seed based generation
 
-Whatever you do, do not change the format of the code to static, I attempted it and for whatever reason
+Whatever you do, do not change the dynamics of the code to static, I attempted it and for whatever reason
 it resulted in the unexpected breakdown of the algorithm and becomes repetitive kinda like a sine wave,
 i spent too long trying to figure out what was wrong, do not do the same
 
