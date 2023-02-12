@@ -16,6 +16,6 @@ if you're wondering why you need a permulation table instead of actually random 
 effect, the array is shuffled based on seed allowing easy seed based generation
 
 the code defaultly doesn't work in static because of the constructor needed for assigning an array, you could make it work
-if you decide to put the permulation process elsewhere though
+if you decide to put the permulation scrambling elsewhere though
 
 If you want more extreme terrain alongside the perlin noise generation check my repositories, there should be one
